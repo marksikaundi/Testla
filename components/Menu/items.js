@@ -15,7 +15,7 @@ const items = [
     {
       id: 3,
       icon: faThermometerHalf,
-      title: "Climate",
+      title: "Weather Now",
       subTitle: "22°C"
     },
     {
