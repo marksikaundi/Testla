@@ -25,7 +25,7 @@ const CarItem = () => {
                 <TouchableOpacity>
                     <FontAwesomeIcon style={styles.icon} icon={ faCog } size={24}/>
                 </TouchableOpacity>
-                <Text style={styles.headerTitle}>NazMobile</Text>
+                <Text style={styles.headerTitle}>CS60APA Software</Text>
                 <TouchableOpacity>
                     <FontAwesomeIcon style={styles.icon} icon={ faToolbox } size={24} />
                 </TouchableOpacity>

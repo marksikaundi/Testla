@@ -1,4 +1,4 @@
-import { faCog, faToolbox, faFan, faKey, faUnlockAlt, faMusic, faChevronRight, faClock, faThermometerHalf, faCar, faBolt, faMapMarkerAlt, faShoppingBag, faWrench, faExclamationTriangle} from '@fortawesome/free-solid-svg-icons';
+import { faCog, faToolbox, faFan, faKey, faUnlockAlt, faMusic, faChevronRight, faClock, faThermometerHalf, faCar, faBolt, faMapMarkerAlt, faShoppingBag, faWrench, faExclamationTriangle, faUser} from '@fortawesome/free-solid-svg-icons';
 
 const items = [
     {
@@ -16,7 +16,7 @@ const items = [
       id: 3,
       icon: faThermometerHalf,
       title: "Climate",
-      subTitle: "20°F"
+      subTitle: "22°C"
     },
     {
       id: 4,
@@ -27,11 +27,13 @@ const items = [
       id: 5,
       icon: faBolt,
       title: "Charging",
+      subTitle: "Battery Full"
     },
     {
       id: 6, 
       icon: faMapMarkerAlt, 
-      title: "Location "
+      title: "Location ",
+      subTitle: "Lusaka, Zambia"
     },    
     {
       id: 7, 
@@ -46,8 +48,9 @@ const items = [
     },        
     {
       id: 9, 
-      icon: faWrench, 
-      title: "Services "
+      icon: faUser, 
+      title: "Software Owner ",
+      subTitle: "Mark Sikaundi"
     },        
     {
       id: 11, 
