@@ -5,6 +5,7 @@ const items = [
       id: 1,
       icon: faMusic,
       title: "Media",
+      subTitle: "Check our Spotify playlist"
     },
     {
       id: 2,
@@ -22,6 +23,7 @@ const items = [
       id: 4,
       icon: faCar,
       title: "Controls",
+      subTitle: "Read Manual"
     },
     {
       id: 5,
@@ -38,13 +40,14 @@ const items = [
     {
       id: 7, 
       icon: faShoppingBag, 
-      title: "Upgrades "
+      title: "Upgrades ",
+      subTitle: "All Updated"
     },        
     {
       id: 8, 
       icon: faKey, 
       title: "Phone Key ",
-      subTitle: "Disconnected"
+      subTitle: "Connected"
     },        
     {
       id: 9, 
