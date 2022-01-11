@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     },
     headerTitle: {
         color: "white",
-        fontSize: 16,
+        fontSize: 25,
         fontWeight: "bold",
         alignItems: "center",
         justifyContent: "center"
